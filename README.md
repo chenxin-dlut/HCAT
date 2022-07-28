@@ -3,7 +3,7 @@ Official implementation of the HCAT , including training code and trained models
 
 ## Tracker
 
-**HCAT [model](https://drive.google.com/drive/folders/1kcYIb1WMDWo6_96cfN2YwpijcJZp1CIJ?usp=sharing)**
+**HCAT [download model](https://drive.google.com/drive/folders/1kcYIb1WMDWo6_96cfN2YwpijcJZp1CIJ?usp=sharing)**
 
 In this work, we present an efficient tracking method via a hierarchical cross-attention transformer named HCAT. Our model runs about 195 f ps on GPU, 45 fps on CPU, and 55 fps on the edge AI platform of NVidia Jetson AGX Xavier. Experiments show that our HCAT achieves promising results on LaSOT, GOT-10k,TrackingNet, NFS, OTB100, UAV123, and VOT2020.
 
