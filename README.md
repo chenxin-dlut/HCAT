@@ -22,6 +22,7 @@ In this work, we present an efficient tracking method via a hierarchical cross-a
 | Convnext_tiny_N2_q16 |         63.1         |           80.5            |        70.1        |          136           |           21           |           34           |
 
 * The reported speed is the speed of the model itself, and does not include pre- and post-processing of the image(e.g., cropping the search region)
+* Download [The RawResults](https://github.com/chenxin-dlut/HCAT/releases/tag/RawResults)
 
 ## Installation
 
